@@ -10,7 +10,7 @@ to get start with this project you need to install flutter first
 
 then need to clone this project.
     
-    git clone https://github/...
+    git clone https://github.com/Eslam-Emad/currency_convertor.git
 
 then run:
 
